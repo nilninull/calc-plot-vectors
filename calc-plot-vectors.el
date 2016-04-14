@@ -115,7 +115,5 @@ top of N stack is used for plotting."
                                                         collect n)
                                                ", "))))))
 
-(define-key calc-mode-map "gm" 'calc-plot-vectors)
-
 (provide 'calc-plot-vectors)
 ;;; calc-plot-vectors.el ends here
